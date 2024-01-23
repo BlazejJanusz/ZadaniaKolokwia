@@ -1,0 +1,3 @@
+﻿  K_Alfabet.cpp
+C:\Users\skuzi\Documents\GitHub\ZadaniaNaKolokwia\K_Alfabet\K_Alfabet\K_Alfabet.cpp(31,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  K_Alfabet.vcxproj -> C:\Users\skuzi\Documents\GitHub\ZadaniaNaKolokwia\K_Alfabet\x64\Debug\K_Alfabet.exe

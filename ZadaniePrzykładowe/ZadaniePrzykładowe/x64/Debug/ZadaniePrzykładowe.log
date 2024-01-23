@@ -1,0 +1,5 @@
+﻿  ZadaniePrzykładowe.cpp
+C:\Users\skuzi\Documents\GitHub\ZadaniaNaKolokwia\ZadaniePrzykładowe\ZadaniePrzykładowe\ZadaniePrzykładowe.cpp(14,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\skuzi\Documents\GitHub\ZadaniaNaKolokwia\ZadaniePrzykładowe\ZadaniePrzykładowe\ZadaniePrzykładowe.cpp(81,16): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\skuzi\Documents\GitHub\ZadaniaNaKolokwia\ZadaniePrzykładowe\ZadaniePrzykładowe\ZadaniePrzykładowe.cpp(12,86): warning C4101: "kopialiczby": lokalna zmienna, do której nie istnieje odwołanie
+  ZadaniePrzykładowe.vcxproj -> C:\Users\skuzi\Documents\GitHub\ZadaniaNaKolokwia\ZadaniePrzykładowe\x64\Debug\ZadaniePrzykładowe.exe
