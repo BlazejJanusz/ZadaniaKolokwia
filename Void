@@ -1,0 +1,15 @@
+void Wypelnianie(Towar* towar, Tekst nazwa, double cena, Dostepnosc dostepnosc, Producent* producent)
+{
+    strcpy_s(towar->nazwa, sizeof(Tekst), nazwa);
+    towar->cena = cena;
+    towar->dostepnosc = dostepnosc;
+    towar->producent = producent;
+}
+
+void Wyswietlanie(Towar towar)
+{
+    cout << towar.nazwa << endl;
+    cout << towar.cena << endl;
+    cout << (int)towar.dostepnosc << endl;
+    cout << towar.producent << endl;
+}
